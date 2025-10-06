@@ -60,5 +60,6 @@ The dataset used is the **California Housing dataset** from Scikit-learn.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/house-price-prediction.git
+   git clone https://github.com/<Bharathnani123>/house-price-prediction.git
    cd house-price-prediction
+
